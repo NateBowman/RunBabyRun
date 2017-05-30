@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - SectionStart
+  - SectionEnd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - Smoke
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background Terrain
+    uniqueID: 3906223181
+    locked: 0
+  - name: Midground Terrain
+    uniqueID: 3697839949
+    locked: 0
+  - name: Player
+    uniqueID: 848670081
+    locked: 0
+  - name: Foreground Terrain
+    uniqueID: 3749713521
+    locked: 0
